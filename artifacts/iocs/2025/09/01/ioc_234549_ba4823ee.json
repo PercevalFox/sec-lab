@@ -1,0 +1,15 @@
+{
+  "generated_at": "2025-09-01T23:45:49.988687",
+  "id": "ba4823ee-ab9b-46fa-a468-4214a9446d1a",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "cdn-metrics.info"
+    },
+    {
+      "type": "domain",
+      "value": "patch-checker.net"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
