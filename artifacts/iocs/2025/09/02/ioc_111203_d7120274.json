@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T11:12:03.414491",
+  "id": "d7120274-e979-4dfe-b6f6-28dd1c8060a0",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "ec5c79.micro-updates.org"
+    },
+    {
+      "type": "sha256",
+      "value": "c7567ed4c3848c3b94e0e42740f7b886e7b7b26a6223619cad552089c9f92d0d"
+    },
+    {
+      "type": "domain",
+      "value": "77cecb.threat-cache.net"
+    },
+    {
+      "type": "sha256",
+      "value": "a4ce8d2dedb54c05d901b5d73fd63bcde72c5bc16553ed876b102f8b8b142e74"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
