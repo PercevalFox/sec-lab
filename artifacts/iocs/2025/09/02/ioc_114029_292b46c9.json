@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T11:40:29.322499",
+  "id": "292b46c9-da9c-441e-af23-a803b731a3e3",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "cdn-telemetry.io"
+    },
+    {
+      "type": "ipv4",
+      "value": "139.128.116.186"
+    },
+    {
+      "type": "sha256",
+      "value": "3f8d74531681a43999fc9c8a9ea69c8d9a73e97c5d92a839f8617aa01a86375c"
+    },
+    {
+      "type": "sha256",
+      "value": "72e1155d9a5474301e622b485c62be36e631c0b41a42e8d1d70a622b438fa669"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
