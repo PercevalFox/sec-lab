@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-02T13:19:27.179223",
+  "id": "40370089-1c71-4f51-b37c-0b78a61f5425",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "0532f9.micro-updates.org"
+    },
+    {
+      "type": "sha256",
+      "value": "4e0448a4998dcde59332df9de54d640a36c82289e969aa51546e0759b336e2c7"
+    },
+    {
+      "type": "ipv4",
+      "value": "217.149.60.232"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
