@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-02T13:42:23.253641",
+  "id": "2b3ab742-d2b6-476b-be16-4ac1ae38df4b",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "b20aeb.event-broker.app"
+    },
+    {
+      "type": "domain",
+      "value": "e1381b.micro-updates.org"
+    },
+    {
+      "type": "domain",
+      "value": "1f9031.soft-updatecdn.com"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
