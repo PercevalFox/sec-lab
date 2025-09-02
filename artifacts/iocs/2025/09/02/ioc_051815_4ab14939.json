@@ -1,0 +1,15 @@
+{
+  "generated_at": "2025-09-02T05:18:15.700550",
+  "id": "4ab14939-1ddf-4e75-830d-b67005dab819",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "micro-updates.org"
+    },
+    {
+      "type": "domain",
+      "value": "f991f0.micro-updates.org"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
