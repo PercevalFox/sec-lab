@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T10:53:19.785991",
+  "id": "3da8b720-f743-40a6-9518-81184b1dc1a1",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "43be2c63b2c48611b230ef2b1b13e5237ff72f79ec0810c4c757f2fd22dc44e1"
+    },
+    {
+      "type": "domain",
+      "value": "e52e6a.cdn-telemetry.io"
+    },
+    {
+      "type": "domain",
+      "value": "bd4645.repo-assets.org"
+    },
+    {
+      "type": "sha256",
+      "value": "21b61abeafed997e90d9fe08fb31b6c828f4fa5102aeb0a28b4c1a3d22697e9c"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
