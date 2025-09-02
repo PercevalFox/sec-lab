@@ -1,0 +1,11 @@
+{
+  "generated_at": "2025-09-02T12:46:27.082006",
+  "id": "32a84a2b-e349-46c9-a46f-474e663efa26",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "cdn-metrics.info"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
