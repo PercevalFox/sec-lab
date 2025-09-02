@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-02T07:26:57.522528",
+  "id": "048f15f9-0d05-48fa-b7b3-f5c1887d33f3",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "902e1de62d94c62bab55bac1cf9a00c177cf15526ba54ea198e0eb7bd378fe45"
+    },
+    {
+      "type": "domain",
+      "value": "ms-secpatch.net"
+    },
+    {
+      "type": "domain",
+      "value": "micro-updates.org"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
