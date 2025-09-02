@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T15:27:48.202282",
+  "id": "f449e506-5c24-462c-9a7a-cc66b3bda68e",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "937f82ac565c53c63abefdb5cf9ba641d12149a063ef373b28098d142fa9c35f"
+    },
+    {
+      "type": "ipv4",
+      "value": "65.82.227.226"
+    },
+    {
+      "type": "domain",
+      "value": "2ad052.event-broker.app"
+    },
+    {
+      "type": "domain",
+      "value": "ms-secpatch.net"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
