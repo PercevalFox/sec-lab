@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-02T12:03:41.940424",
+  "id": "f3ddd06c-0791-4a9b-aa1c-60c4d1c1f33f",
+  "iocs": [
+    {
+      "type": "ipv4",
+      "value": "52.156.116.142"
+    },
+    {
+      "type": "ipv4",
+      "value": "75.104.151.198"
+    },
+    {
+      "type": "domain",
+      "value": "event-broker.app"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
