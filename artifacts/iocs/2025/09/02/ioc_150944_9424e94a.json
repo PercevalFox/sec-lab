@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-02T15:09:44.861726",
+  "id": "9424e94a-b9bb-40a7-861d-ece0e2db1ef2",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "30c962.threat-cache.net"
+    },
+    {
+      "type": "domain",
+      "value": "494343.patch-checker.net"
+    },
+    {
+      "type": "sha256",
+      "value": "c81f0c7de99b72d36928515dc52c392bc44476ca8ec59725d05877fd1e5a8ee0"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
