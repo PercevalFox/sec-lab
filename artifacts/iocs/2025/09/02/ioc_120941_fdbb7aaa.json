@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-02T12:09:41.821400",
+  "id": "fdbb7aaa-b031-4e20-be31-47e391ab3deb",
+  "iocs": [
+    {
+      "type": "ipv4",
+      "value": "187.221.80.215"
+    },
+    {
+      "type": "domain",
+      "value": "cdn-metrics.info"
+    },
+    {
+      "type": "sha256",
+      "value": "dbd87f3c26027eea8f117783b6c88eb0c684d62ce244b59414c926c9f971cf01"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
