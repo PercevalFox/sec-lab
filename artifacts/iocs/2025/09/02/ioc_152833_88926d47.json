@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T15:28:33.471829",
+  "id": "88926d47-c4f9-45df-87f6-11a73c8640d4",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "c14163f4c5ef49fbdc6c6a4dda6e0b5f1bed17596d0ee541e7dd796103794b23"
+    },
+    {
+      "type": "domain",
+      "value": "micro-updates.org"
+    },
+    {
+      "type": "sha256",
+      "value": "1a384f933ba284247b18054602bef0c5ae088605fcf07c0ef24e42f68b2d9a33"
+    },
+    {
+      "type": "sha256",
+      "value": "cf3db4bf7024a03f03ac5bcdcd99597bd085f71c95d962d690ef58f72459e15e"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
