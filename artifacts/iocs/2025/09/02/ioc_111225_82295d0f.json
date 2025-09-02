@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-02T11:12:25.931341",
+  "id": "82295d0f-3bd0-458a-9e4f-7d34e9932fb4",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "3a7372.cdn-telemetry.io"
+    },
+    {
+      "type": "domain",
+      "value": "threat-cache.net"
+    },
+    {
+      "type": "domain",
+      "value": "patch-checker.net"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
