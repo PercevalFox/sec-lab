@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-02T12:49:26.142256",
+  "id": "90f809e2-1b05-4287-bf1a-8a8dda0d05d0",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "40f0fa.repo-assets.org"
+    },
+    {
+      "type": "sha256",
+      "value": "0d3864e8356987c360e9ddb5a8b629cc2bc571e2426b92efd4d8e9a457430f6a"
+    },
+    {
+      "type": "domain",
+      "value": "1a9d07.patch-checker.net"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
