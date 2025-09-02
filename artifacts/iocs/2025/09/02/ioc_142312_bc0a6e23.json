@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T14:23:12.385871",
+  "id": "bc0a6e23-d6f4-459c-969c-50fba2766d30",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "2e0abad93d39b89b3ee5f561523b4ae82cbb34aca5dc29ceefb537d86fcf9df7"
+    },
+    {
+      "type": "ipv4",
+      "value": "216.250.79.16"
+    },
+    {
+      "type": "domain",
+      "value": "ed6405.threat-cache.net"
+    },
+    {
+      "type": "sha256",
+      "value": "e6070e12e9c015df4215b35f96a18e9cc4476478b5c71df9390eaaacd6f2639d"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
