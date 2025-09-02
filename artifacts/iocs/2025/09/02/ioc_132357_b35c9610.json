@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T13:23:57.056962",
+  "id": "b35c9610-df84-42eb-9727-4547046c8329",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "cdn-telemetry.io"
+    },
+    {
+      "type": "domain",
+      "value": "afd72d.soft-updatecdn.com"
+    },
+    {
+      "type": "sha256",
+      "value": "7d862f8b5fa77e9642df9fc9f8fc4ef4581163be34a8ff6df5b3a6c631e682cb"
+    },
+    {
+      "type": "domain",
+      "value": "ab79b2.threat-cache.net"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
