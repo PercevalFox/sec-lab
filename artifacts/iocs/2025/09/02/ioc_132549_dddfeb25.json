@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-02T13:25:49.529917",
+  "id": "dddfeb25-e3e2-4270-a5bb-4d295e71cb7e",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "3585d66c10cbf23b86d5f0aba9318bf7d6e2d4759efff7554c74f14cae857534"
+    },
+    {
+      "type": "domain",
+      "value": "micro-updates.org"
+    },
+    {
+      "type": "domain",
+      "value": "05c16a.soft-updatecdn.com"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
