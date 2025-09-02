@@ -1,0 +1,11 @@
+{
+  "generated_at": "2025-09-02T07:37:22.535145",
+  "id": "f6ca0815-69da-476d-8cb6-5c869d9e5df7",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "4db614.repo-assets.org"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
