@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T05:49:24.754865",
+  "id": "f49033f7-81da-469d-89b2-66a7f8e9016c",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "event-broker.app"
+    },
+    {
+      "type": "ipv4",
+      "value": "69.47.148.205"
+    },
+    {
+      "type": "ipv4",
+      "value": "110.190.165.86"
+    },
+    {
+      "type": "domain",
+      "value": "cacbc8.cdn-telemetry.io"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
