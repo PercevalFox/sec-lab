@@ -1,0 +1,11 @@
+{
+  "generated_at": "2025-09-02T13:26:35.089225",
+  "id": "e0e2a2b0-8873-4a59-8872-f13eb32f38c2",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "08fb9e.event-broker.app"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
