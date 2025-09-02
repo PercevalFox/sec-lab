@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-02T13:25:04.729911",
+  "id": "656571ce-2efe-4de1-bbcc-f2aaab99634b",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "cb392f48d5ddd4821fed35bc9bfecf21024fe28cee56feb5d1f1a8928d360099"
+    },
+    {
+      "type": "sha256",
+      "value": "73740134360311ea5d8b4a0af91a11508d6e08faadbb8aa326a65ef5365f6892"
+    },
+    {
+      "type": "sha256",
+      "value": "97a8c7d9010aed5e5e4891a01c4c7046f13dba4991fb5606ea2987bde010a8af"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
