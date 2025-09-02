@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T11:59:33.353172",
+  "id": "abe45471-6faf-4116-a3a9-53b0ac57b58c",
+  "iocs": [
+    {
+      "type": "ipv4",
+      "value": "197.205.95.109"
+    },
+    {
+      "type": "domain",
+      "value": "12c223.ms-secpatch.net"
+    },
+    {
+      "type": "sha256",
+      "value": "5f8f1443158a67121be8309750d25c3093bf850580c8979de7ac653c6c0803a7"
+    },
+    {
+      "type": "domain",
+      "value": "868e04.patch-checker.net"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
