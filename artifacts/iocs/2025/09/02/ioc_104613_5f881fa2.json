@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T10:46:13.808557",
+  "id": "5f881fa2-47fb-48cd-9d01-1188a2064690",
+  "iocs": [
+    {
+      "type": "ipv4",
+      "value": "160.60.227.174"
+    },
+    {
+      "type": "domain",
+      "value": "41b955.patch-checker.net"
+    },
+    {
+      "type": "domain",
+      "value": "repo-assets.org"
+    },
+    {
+      "type": "domain",
+      "value": "bdfda8.cdn-telemetry.io"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
