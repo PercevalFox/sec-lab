@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T05:27:09.645944",
+  "id": "4f9f28a0-97b4-4c4c-bc0e-d46de3afa74f",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "36f292a415a897f08640def06a73829bf4ffc6de0ea47325be20504670298926"
+    },
+    {
+      "type": "domain",
+      "value": "5d109f.patch-checker.net"
+    },
+    {
+      "type": "ipv4",
+      "value": "123.140.170.245"
+    },
+    {
+      "type": "domain",
+      "value": "cdn-metrics.info"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
