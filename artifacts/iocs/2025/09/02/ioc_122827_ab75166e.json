@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T12:28:27.157932",
+  "id": "ab75166e-afa5-450c-8b85-8b467088b0c4",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "088340.cdn-telemetry.io"
+    },
+    {
+      "type": "domain",
+      "value": "97f761.soft-updatecdn.com"
+    },
+    {
+      "type": "domain",
+      "value": "515414.repo-assets.org"
+    },
+    {
+      "type": "sha256",
+      "value": "0e402df8a4c131785895984868c9af5c83354db3a775fcc0e2d9f3b10f3cf3e4"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
