@@ -1,0 +1,11 @@
+{
+  "generated_at": "2025-09-02T07:11:19.310766",
+  "id": "c09ee08e-c30d-4a9b-9d74-43e77408e24f",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "efb890a50d9c52411e5cac617995b37ee00fde5685cd7a7a624fd55b84e5646f"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
