@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-02T12:44:34.592317",
+  "id": "a3072437-5651-415f-94d1-df15a50081f0",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "soft-updatecdn.com"
+    },
+    {
+      "type": "ipv4",
+      "value": "132.125.239.207"
+    },
+    {
+      "type": "domain",
+      "value": "ab9412.event-broker.app"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
