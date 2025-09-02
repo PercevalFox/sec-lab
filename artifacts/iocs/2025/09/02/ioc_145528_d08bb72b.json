@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T14:55:28.475458",
+  "id": "d08bb72b-c517-468e-a11e-da7eaede7fff",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "1d40f6fc1bca8ac7c6bb0c23b8f7f72b6c4b6a7a4088f74d111ab3eec05c9032"
+    },
+    {
+      "type": "domain",
+      "value": "ms-secpatch.net"
+    },
+    {
+      "type": "domain",
+      "value": "repo-assets.org"
+    },
+    {
+      "type": "sha256",
+      "value": "3dcd790064c0aa9120d2b84a79a404d9c305a574eef2aaccb973b316b2c7cea6"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
