@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T05:21:36.237556",
+  "id": "190df0d4-2a23-4e51-8919-615b5bf4f79c",
+  "iocs": [
+    {
+      "type": "ipv4",
+      "value": "175.219.135.254"
+    },
+    {
+      "type": "ipv4",
+      "value": "144.21.215.217"
+    },
+    {
+      "type": "domain",
+      "value": "5156e4.soft-updatecdn.com"
+    },
+    {
+      "type": "ipv4",
+      "value": "251.183.196.175"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
