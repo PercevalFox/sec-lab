@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T06:44:51.668030",
+  "id": "8dcc36df-61b5-4358-a5b8-4eae74f18b97",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "soft-updatecdn.com"
+    },
+    {
+      "type": "sha256",
+      "value": "9e266cfe0e972e30e7b5900b7026112d172b93a0706d487904daf7fcd1b598d1"
+    },
+    {
+      "type": "ipv4",
+      "value": "130.93.165.69"
+    },
+    {
+      "type": "sha256",
+      "value": "7647f3c803fdda1e32d3ca8d876e47ac1cf229915fc99730e46eb74dc463749c"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
