@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T13:48:46.669088",
+  "id": "daed6afb-c8b6-473a-85d3-508d944067bf",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "cdn-metrics.info"
+    },
+    {
+      "type": "domain",
+      "value": "soft-updatecdn.com"
+    },
+    {
+      "type": "sha256",
+      "value": "7d5fc12ca5b66434219cd39c558b7f3ff1f46874c25f32c626f31534dedfd790"
+    },
+    {
+      "type": "sha256",
+      "value": "935d547257d1d72e39f880a3ecf30a861cd9f55a8196cbd60e0d2d393af3087d"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
