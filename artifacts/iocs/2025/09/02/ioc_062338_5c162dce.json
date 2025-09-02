@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-02T06:23:38.450197",
+  "id": "5c162dce-93c9-42a9-86e2-be1c4c97c024",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "1b1016.micro-updates.org"
+    },
+    {
+      "type": "domain",
+      "value": "a7587f.micro-updates.org"
+    },
+    {
+      "type": "domain",
+      "value": "d5a807.repo-assets.org"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
