@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T14:44:34.847952",
+  "id": "fbe27737-2c8b-441e-820e-9c4f24ba653e",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "885a83.event-broker.app"
+    },
+    {
+      "type": "domain",
+      "value": "77c9e7.patch-checker.net"
+    },
+    {
+      "type": "domain",
+      "value": "patch-checker.net"
+    },
+    {
+      "type": "sha256",
+      "value": "22c39fea1a25be93396add48262c355822d75b5b75bb6576baba007e5dc76314"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
