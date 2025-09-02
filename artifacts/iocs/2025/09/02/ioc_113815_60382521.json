@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T11:38:15.405900",
+  "id": "60382521-24dc-4e0f-9f90-0f2ec96fab49",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "392fe5e4828fcc72dcd58e6a6d152316405dcd1638c760869a563f7bf63d508b"
+    },
+    {
+      "type": "sha256",
+      "value": "04cccb435c87eb9dcfa2c9a9bb0be0c556fd6b923104ed68eb20ced1d74730a9"
+    },
+    {
+      "type": "ipv4",
+      "value": "77.59.149.101"
+    },
+    {
+      "type": "domain",
+      "value": "0b2cb3.cdn-telemetry.io"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
