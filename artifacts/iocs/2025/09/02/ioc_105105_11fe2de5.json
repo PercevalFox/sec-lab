@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T10:51:05.929997",
+  "id": "11fe2de5-14be-416c-9fb0-cf07dcb75bd3",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "2b145722778cef4a631d4817e26a93e2d2c112ecea96189fdbbd689765c15161"
+    },
+    {
+      "type": "domain",
+      "value": "repo-assets.org"
+    },
+    {
+      "type": "ipv4",
+      "value": "87.202.65.72"
+    },
+    {
+      "type": "sha256",
+      "value": "e573e897ce8a9b17ac56a26e50f3cbd90812afaf83f9a9e3a6d5fe0b4ad37d33"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
