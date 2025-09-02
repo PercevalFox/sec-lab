@@ -1,0 +1,11 @@
+{
+  "generated_at": "2025-09-02T06:24:23.315194",
+  "id": "4b670cda-8658-48de-b872-be08bdcb2955",
+  "iocs": [
+    {
+      "type": "ipv4",
+      "value": "168.226.6.229"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
