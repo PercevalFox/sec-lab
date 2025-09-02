@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T10:33:09.683976",
+  "id": "b51f29bc-7661-4eca-b314-70c670fc0e11",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "repo-assets.org"
+    },
+    {
+      "type": "domain",
+      "value": "patch-checker.net"
+    },
+    {
+      "type": "domain",
+      "value": "ms-secpatch.net"
+    },
+    {
+      "type": "ipv4",
+      "value": "236.82.85.238"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
