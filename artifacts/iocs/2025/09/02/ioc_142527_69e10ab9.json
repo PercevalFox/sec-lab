@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T14:25:27.476393",
+  "id": "69e10ab9-e2b0-4725-a549-5e3ee85c3357",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "245c5f.cdn-telemetry.io"
+    },
+    {
+      "type": "sha256",
+      "value": "4578798c4e854eaf9025e5c0217dd9174c05c14646cd2ccc6c2126470a5348f1"
+    },
+    {
+      "type": "domain",
+      "value": "82e191.micro-updates.org"
+    },
+    {
+      "type": "domain",
+      "value": "cdn-telemetry.io"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
