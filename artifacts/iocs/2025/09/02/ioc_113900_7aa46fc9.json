@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T11:39:00.127473",
+  "id": "7aa46fc9-d410-4755-b964-6471f3794a8e",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "4ef4c6e33ff1cfc191e4f327816bd87c64e5b597b0c6eacd90ecbeb3bc5e959c"
+    },
+    {
+      "type": "domain",
+      "value": "feecad.event-broker.app"
+    },
+    {
+      "type": "domain",
+      "value": "ms-secpatch.net"
+    },
+    {
+      "type": "sha256",
+      "value": "0e6660af2cac72df00fbb024c911902de2fa95002730c02dad7b522bb7707f9a"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
