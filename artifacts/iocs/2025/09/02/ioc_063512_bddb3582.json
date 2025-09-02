@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T06:35:12.121034",
+  "id": "bddb3582-971f-4b75-9426-1047fe595852",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "ac6cc8.micro-updates.org"
+    },
+    {
+      "type": "ipv4",
+      "value": "187.179.92.231"
+    },
+    {
+      "type": "domain",
+      "value": "patch-checker.net"
+    },
+    {
+      "type": "ipv4",
+      "value": "60.204.247.117"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
