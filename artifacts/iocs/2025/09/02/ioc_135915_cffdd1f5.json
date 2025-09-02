@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T13:59:15.947024",
+  "id": "cffdd1f5-195d-459d-b78a-31049566ad24",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "9d6fd3.repo-assets.org"
+    },
+    {
+      "type": "domain",
+      "value": "cdn-metrics.info"
+    },
+    {
+      "type": "domain",
+      "value": "patch-checker.net"
+    },
+    {
+      "type": "sha256",
+      "value": "fb30a4f92487583b5f82bac875634e27698880c5fb44d06e48e6a61e0582c2e2"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
