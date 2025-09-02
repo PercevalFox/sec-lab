@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T06:24:01.028939",
+  "id": "678077dd-b3df-41f2-bcee-4b523b056426",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "repo-assets.org"
+    },
+    {
+      "type": "sha256",
+      "value": "8bef012d0e012bc19fecf6fca65f2c533208a9ce702db8a5f960084fc1111e71"
+    },
+    {
+      "type": "sha256",
+      "value": "9f608179cf81ebcdc1299c7b5a64e4f6e78870214247ca402f85bb1abb9c22c2"
+    },
+    {
+      "type": "domain",
+      "value": "threat-cache.net"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
