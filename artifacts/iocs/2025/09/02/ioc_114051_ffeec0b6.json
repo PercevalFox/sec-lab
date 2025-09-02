@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-02T11:40:51.704659",
+  "id": "ffeec0b6-602e-4bf0-a210-7b28e7c5c36c",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "ea393a8d81fec86e5d92a1e0b879275d1141578bdbf9f882ee6c15b7a288fb1b"
+    },
+    {
+      "type": "ipv4",
+      "value": "89.103.64.43"
+    },
+    {
+      "type": "domain",
+      "value": "19f280.threat-cache.net"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
