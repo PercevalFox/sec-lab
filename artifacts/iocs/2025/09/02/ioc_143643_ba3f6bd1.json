@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T14:36:43.299191",
+  "id": "ba3f6bd1-74cc-448b-bc5c-099aefa80439",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "60d762d78b2975661159680bf8a8505996fea6497441ee01f9b25e15b2e65f82"
+    },
+    {
+      "type": "sha256",
+      "value": "8bdb294e0164d9aaa56b2b08d877fad7116987fd181b6eba0e326a808fc3f4ab"
+    },
+    {
+      "type": "ipv4",
+      "value": "94.205.75.200"
+    },
+    {
+      "type": "domain",
+      "value": "fac6c6.event-broker.app"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
