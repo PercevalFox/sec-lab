@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-02T05:37:54.197077",
+  "id": "3773b391-8d2a-4b52-8522-d78ac176e221",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "223e01.ms-secpatch.net"
+    },
+    {
+      "type": "ipv4",
+      "value": "79.36.91.109"
+    },
+    {
+      "type": "ipv4",
+      "value": "164.244.222.47"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
