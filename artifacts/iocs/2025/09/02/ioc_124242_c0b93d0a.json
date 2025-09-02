@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T12:42:42.117694",
+  "id": "c0b93d0a-872d-40fc-b75a-254269d97003",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "1e8379a41003a0652d194e853194bec0cbe5fb7b6ff455783d782f78d3c73b7c"
+    },
+    {
+      "type": "sha256",
+      "value": "c113ae932f2382c00d60516fa8008d617f0e4271b12abf4198e7906e3cb34e55"
+    },
+    {
+      "type": "domain",
+      "value": "repo-assets.org"
+    },
+    {
+      "type": "domain",
+      "value": "3dce43.micro-updates.org"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
