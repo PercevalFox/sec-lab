@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-02T11:03:48.586566",
+  "id": "d28c1e7f-125c-4ebf-bede-e70a595b2033",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "8eaab35590db70f7226ca6c1ed13374a0c272c9791c960995dc91dc46f566bb7"
+    },
+    {
+      "type": "ipv4",
+      "value": "127.172.194.4"
+    },
+    {
+      "type": "domain",
+      "value": "2cea10.repo-assets.org"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
