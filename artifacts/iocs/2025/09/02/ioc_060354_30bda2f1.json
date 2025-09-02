@@ -1,0 +1,11 @@
+{
+  "generated_at": "2025-09-02T06:03:54.820489",
+  "id": "30bda2f1-1f07-4c0c-b89e-2b0f51a99036",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "patch-checker.net"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
