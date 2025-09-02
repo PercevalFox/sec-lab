@@ -1,0 +1,15 @@
+{
+  "generated_at": "2025-09-02T12:16:26.461944",
+  "id": "52f93fec-2eef-4e2a-9a31-be6e620c348d",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "b4790e.soft-updatecdn.com"
+    },
+    {
+      "type": "domain",
+      "value": "repo-assets.org"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
