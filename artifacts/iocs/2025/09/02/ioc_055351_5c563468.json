@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-02T05:53:51.615186",
+  "id": "5c563468-bbda-4ebe-ba89-d6c208ac48e4",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "cdn-telemetry.io"
+    },
+    {
+      "type": "sha256",
+      "value": "e668b974e93f9b1735993622a4f4524e1accada180deb7f131ea77a4569436db"
+    },
+    {
+      "type": "domain",
+      "value": "d111e0.patch-checker.net"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
