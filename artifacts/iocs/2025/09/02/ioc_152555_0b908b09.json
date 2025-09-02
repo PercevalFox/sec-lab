@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-02T15:25:55.628980",
+  "id": "0b908b09-8803-4308-978d-ec16f6a266dd",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "c12d69.micro-updates.org"
+    },
+    {
+      "type": "domain",
+      "value": "416e15.cdn-telemetry.io"
+    },
+    {
+      "type": "domain",
+      "value": "threat-cache.net"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
