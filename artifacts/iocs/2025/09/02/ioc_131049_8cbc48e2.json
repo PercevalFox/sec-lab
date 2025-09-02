@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T13:10:49.810510",
+  "id": "8cbc48e2-991d-4cfe-9f82-0eaf08966e6f",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "df2730.cdn-telemetry.io"
+    },
+    {
+      "type": "ipv4",
+      "value": "110.203.195.99"
+    },
+    {
+      "type": "domain",
+      "value": "micro-updates.org"
+    },
+    {
+      "type": "sha256",
+      "value": "dd3127a1ab1cab878def33c60d0abed785dfb23b83bac1ee2ef49d9784847e2f"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
