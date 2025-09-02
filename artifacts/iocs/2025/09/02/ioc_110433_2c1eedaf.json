@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-02T11:04:33.578792",
+  "id": "2c1eedaf-ed6b-416c-9bf5-9bec308f5d36",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "micro-updates.org"
+    },
+    {
+      "type": "domain",
+      "value": "patch-checker.net"
+    },
+    {
+      "type": "domain",
+      "value": "cf0f58.threat-cache.net"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
