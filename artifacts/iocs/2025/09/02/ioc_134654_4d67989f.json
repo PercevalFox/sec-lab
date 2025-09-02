@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T13:46:54.313127",
+  "id": "4d67989f-0f3b-49f9-86e4-15e05f36f217",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "ee8f2b.soft-updatecdn.com"
+    },
+    {
+      "type": "sha256",
+      "value": "d192ec2fcb6eca323eb936fa837349e75849770f0dc7054edb4f6bd6ce76c4f1"
+    },
+    {
+      "type": "sha256",
+      "value": "c589689e10dd92e5ca12385d67eea1d57d0f27d005953949c93f6c80c3166bee"
+    },
+    {
+      "type": "domain",
+      "value": "b20c1d.cdn-telemetry.io"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
