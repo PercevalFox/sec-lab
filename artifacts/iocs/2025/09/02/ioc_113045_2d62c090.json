@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T11:30:45.845457",
+  "id": "2d62c090-e093-4308-ad63-b9bceb5d4d98",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "threat-cache.net"
+    },
+    {
+      "type": "sha256",
+      "value": "6771f31e80d3477b62e5b555f914a7c861b0e617d494836ce26717f6846b5765"
+    },
+    {
+      "type": "sha256",
+      "value": "08197f8b9a9338c53eb66586cab723154453a686d346994276a71cfce0229caa"
+    },
+    {
+      "type": "domain",
+      "value": "58b4ed.ms-secpatch.net"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
