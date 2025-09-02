@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T13:01:03.720106",
+  "id": "b460ccc0-12d5-4c84-b27b-5f00412eb16b",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "84fe2e4ccf6513aec4f723a909a0b6e79481b1c3391a452340d0fe57c75859be"
+    },
+    {
+      "type": "domain",
+      "value": "0524da.repo-assets.org"
+    },
+    {
+      "type": "ipv4",
+      "value": "169.131.199.154"
+    },
+    {
+      "type": "domain",
+      "value": "e85354.soft-updatecdn.com"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
