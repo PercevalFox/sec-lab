@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T13:39:23.900095",
+  "id": "8701f033-eba3-4f04-946b-97b876f5d963",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "686dcda98452c5bb5eb072ad24fa88c10bf229d2b22f261f38f8bb639aea73d9"
+    },
+    {
+      "type": "ipv4",
+      "value": "238.201.152.157"
+    },
+    {
+      "type": "sha256",
+      "value": "0e001b21f61806862846f9f1c4b7b128825ce6fba44b6649203f28dbe6a23dc4"
+    },
+    {
+      "type": "domain",
+      "value": "689032.ms-secpatch.net"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
