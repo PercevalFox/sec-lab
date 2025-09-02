@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-02T07:00:29.788796",
+  "id": "3ac2f527-5085-44b2-8cfb-3a5594ea1982",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "threat-cache.net"
+    },
+    {
+      "type": "sha256",
+      "value": "421828ef54e3403e097164b04760c78b72816cc22b68ab612401b75471436068"
+    },
+    {
+      "type": "domain",
+      "value": "threat-cache.net"
+    },
+    {
+      "type": "domain",
+      "value": "micro-updates.org"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
