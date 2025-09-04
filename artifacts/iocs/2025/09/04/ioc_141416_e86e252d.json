@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-04T14:14:16.460946",
+  "id": "e86e252d-bdef-41d2-a512-5d0d2f1125fe",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "repo-assets.org"
+    },
+    {
+      "type": "domain",
+      "value": "b82144.patch-checker.net"
+    },
+    {
+      "type": "domain",
+      "value": "micro-updates.org"
+    },
+    {
+      "type": "domain",
+      "value": "973e1c.patch-checker.net"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
