@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-06T18:26:39.421101",
+  "id": "410ff18e-9b37-4d36-a265-1e4396b7e191",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "172b70.micro-updates.org"
+    },
+    {
+      "type": "ipv4",
+      "value": "16.247.75.106"
+    },
+    {
+      "type": "domain",
+      "value": "soft-updatecdn.com"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
