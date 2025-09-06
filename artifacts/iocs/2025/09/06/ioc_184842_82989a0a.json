@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-06T18:48:42.123179",
+  "id": "82989a0a-f0a8-480d-818e-d7c440bcd07a",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "cdn-metrics.info"
+    },
+    {
+      "type": "domain",
+      "value": "repo-assets.org"
+    },
+    {
+      "type": "sha256",
+      "value": "f618afdac11d4c35baa64c545e997b2489c7d32fc7592c4651d5a8d242d70274"
+    },
+    {
+      "type": "sha256",
+      "value": "95fa3315fe013c0419379a35957ef49f5ee5b7ea9f6adf3b7bfe7eed16677425"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
