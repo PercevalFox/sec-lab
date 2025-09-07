@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-07T20:05:02.962388",
+  "id": "60a2dece-c272-4ef3-ad73-c012f7d6f56c",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "561126.repo-assets.org"
+    },
+    {
+      "type": "ipv4",
+      "value": "246.124.232.158"
+    },
+    {
+      "type": "domain",
+      "value": "866e6e.cdn-metrics.info"
+    },
+    {
+      "type": "domain",
+      "value": "ms-secpatch.net"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
