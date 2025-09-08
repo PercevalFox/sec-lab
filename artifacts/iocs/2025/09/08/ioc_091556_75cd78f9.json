@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-08T09:15:56.200082",
+  "id": "75cd78f9-8594-4671-a2a7-26cf333b5d24",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "83160dee84d3ed6ccb9a6241498c012fdae40a524f3f81c9ab2fc31e50535e1d"
+    },
+    {
+      "type": "domain",
+      "value": "ff741a.soft-updatecdn.com"
+    },
+    {
+      "type": "sha256",
+      "value": "c71806eb66c6ce9abbce8ac5a83f7064d9f2ce2a7705ec40fbc4ac42b8bc0ab2"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
