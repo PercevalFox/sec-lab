@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-09T22:42:06.431712",
+  "id": "6471e8eb-431a-4144-b923-2f8fdba7e1d0",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "e145fa900527f7d11952c548f6101e394aa98ba5abc9ede75d1b000ae5d219a9"
+    },
+    {
+      "type": "sha256",
+      "value": "e40c416bb3ec93f0ef44510e5082d0339eebd74a1408f9590fb88dc554a7ed19"
+    },
+    {
+      "type": "domain",
+      "value": "patch-checker.net"
+    },
+    {
+      "type": "sha256",
+      "value": "23612af657220068fca5a584e1d299325a866a07645311ff76b98591281f3f75"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
