@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-10T11:29:19.977619",
+  "id": "fb4d64ed-be81-4f3e-866a-2dd637640acf",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "2a7294.event-broker.app"
+    },
+    {
+      "type": "sha256",
+      "value": "6c2ceb4e292fcc07e648e3730f1e85b24999f5b0c7fad60cf3294a353861088a"
+    },
+    {
+      "type": "domain",
+      "value": "ms-secpatch.net"
+    },
+    {
+      "type": "domain",
+      "value": "threat-cache.net"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
