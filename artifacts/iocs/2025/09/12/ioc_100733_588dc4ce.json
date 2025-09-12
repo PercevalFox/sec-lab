@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-12T10:07:33.486947",
+  "id": "588dc4ce-5543-4e56-ad09-41e26c817a50",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "d0eed0.patch-checker.net"
+    },
+    {
+      "type": "ipv4",
+      "value": "126.214.27.67"
+    },
+    {
+      "type": "sha256",
+      "value": "19fd2d138d62b72affdae1e04766f7f26f537e363d73a3e8d4b82a9b09c8d0c6"
+    },
+    {
+      "type": "ipv4",
+      "value": "252.176.84.155"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
