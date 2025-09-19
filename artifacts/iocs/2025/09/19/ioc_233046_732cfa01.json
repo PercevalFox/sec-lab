@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-19T23:30:46.216911",
+  "id": "732cfa01-1c6c-46f7-9c5d-bd8c850db345",
+  "iocs": [
+    {
+      "type": "ipv4",
+      "value": "148.38.239.240"
+    },
+    {
+      "type": "ipv4",
+      "value": "182.234.145.37"
+    },
+    {
+      "type": "domain",
+      "value": "f26b78.cdn-telemetry.io"
+    },
+    {
+      "type": "ipv4",
+      "value": "152.221.44.229"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
