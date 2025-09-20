@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-20T11:19:13.327482",
+  "id": "5d11e25b-56bd-4054-8bba-a3f7870e61ab",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "c50cb71bff20f0715e632bac3ce6a7de39388fec41910e214b2e4875a113d32d"
+    },
+    {
+      "type": "ipv4",
+      "value": "197.78.39.49"
+    },
+    {
+      "type": "ipv4",
+      "value": "176.242.130.197"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
