@@ -1,0 +1,15 @@
+{
+  "generated_at": "2025-09-21T10:40:00.903165",
+  "id": "1c5dfc32-784a-4ee1-90ac-17b7990590cb",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "91fbe7.soft-updatecdn.com"
+    },
+    {
+      "type": "domain",
+      "value": "f2ae9f.cdn-telemetry.io"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
