@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-21T11:10:44.465499",
+  "id": "320fb5dc-8db2-4b36-afd8-73063383f897",
+  "iocs": [
+    {
+      "type": "sha256",
+      "value": "0357f1aa17be07c4a6d9a8154b9a0b29c0d7b538d5cb34bb7586044fe96fb470"
+    },
+    {
+      "type": "domain",
+      "value": "dbc39f.ms-secpatch.net"
+    },
+    {
+      "type": "sha256",
+      "value": "1e1f83b2afabaecacc0bf3ced75be2a003c55bc1ce7eef6c081ae3aa59d253a0"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
