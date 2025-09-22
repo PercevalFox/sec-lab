@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-22T10:30:57.623350",
+  "id": "ccafda39-0163-4046-8565-e1c2819905ec",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "repo-assets.org"
+    },
+    {
+      "type": "domain",
+      "value": "086590.cdn-metrics.info"
+    },
+    {
+      "type": "domain",
+      "value": "92ef0b.threat-cache.net"
+    },
+    {
+      "type": "ipv4",
+      "value": "133.227.15.194"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
