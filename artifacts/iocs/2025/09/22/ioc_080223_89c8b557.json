@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-22T08:02:23.504498",
+  "id": "89c8b557-233f-4007-869f-1314389912db",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "0a0db1.ms-secpatch.net"
+    },
+    {
+      "type": "sha256",
+      "value": "8ccab194dcd24ee400716103203dfca68a52932c7e63fdb313319ee3ddd8b5f0"
+    },
+    {
+      "type": "domain",
+      "value": "micro-updates.org"
+    },
+    {
+      "type": "ipv4",
+      "value": "66.57.139.223"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
