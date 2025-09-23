@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-09-23T15:18:16.784119",
+  "id": "2157ee6c-03ed-4060-b659-b06bbd77e40b",
+  "iocs": [
+    {
+      "type": "domain",
+      "value": "89c0b2.patch-checker.net"
+    },
+    {
+      "type": "domain",
+      "value": "3ebff1.micro-updates.org"
+    },
+    {
+      "type": "sha256",
+      "value": "ccdf73e62f4e0a9514500d4a209ebca34a3cb2b267a1102f0bf381a8bebb1c79"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
