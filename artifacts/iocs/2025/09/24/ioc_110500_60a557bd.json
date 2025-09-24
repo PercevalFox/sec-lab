@@ -1,0 +1,23 @@
+{
+  "generated_at": "2025-09-24T11:05:00.331420",
+  "id": "60a557bd-e900-48c6-9f83-efcd47511351",
+  "iocs": [
+    {
+      "type": "ipv4",
+      "value": "20.47.61.29"
+    },
+    {
+      "type": "domain",
+      "value": "repo-assets.org"
+    },
+    {
+      "type": "domain",
+      "value": "bf3f78.cdn-telemetry.io"
+    },
+    {
+      "type": "domain",
+      "value": "3090f0.event-broker.app"
+    }
+  ],
+  "notes": "R&D lab feed (synthetic)"
+}
